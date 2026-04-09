@@ -1,0 +1,4 @@
+# Optional: JS-rendered career pages
+#   pip install -r requirements-browser.txt
+#   playwright install chromium
+playwright>=1.49.0
