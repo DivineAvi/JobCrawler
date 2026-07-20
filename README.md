@@ -95,7 +95,7 @@ python3 -m scraper -o jobs --include-yc-jobs
 ### Limit scope (testing)
 
 ```bash
-python3 -m scraper --max-companies 20 -o sample
+python3 -m scraper --max-companies 20 -o sampl
 ```
 
 ### All directory companies (not only “hiring”)
